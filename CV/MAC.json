@@ -217,26 +217,6 @@
           }
         ]
       }
-    ],
-    "softSkills": [
-      {
-        "skill": {
-          "name": "Autonomía en el aprendizaje",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Liderazgo",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Trabajo en equipo",
-          "type": "practice"
-        }
-      }
     ]
   },
   "careerPreferences": {
