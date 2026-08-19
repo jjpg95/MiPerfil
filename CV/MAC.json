@@ -280,12 +280,13 @@
       },
       {
         "studyType": "unaccredited",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Técnico superior en desarrollo de aplicaciones Web",
         "startDate": "2021-11-01",
         "institution": {
           "name": "CEAC"
         },
+        "finishDate": "2021-11-01",
         "linkedCompetences": [
           {
             "name": "AJAX",
