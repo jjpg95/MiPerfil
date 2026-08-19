@@ -264,7 +264,7 @@
     ],
     "studies": [
       {
-        "studyType": "unaccredited",
+        "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Técnico superior en desarrollo de aplicaciones Web",
         "startDate": "2021-11-01",
