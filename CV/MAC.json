@@ -32,13 +32,14 @@
     "jobs": [
       {
         "organization": {
-          "name": "Zankyou weddings",
-          "URL": "https://www.zankyou.es"
+          "name": "The Knot",
+          "URL": "https://www.theknot.com"
         },
         "roles": [
           {
             "name": "Backend PHP developer",
             "startDate": "2022-11-01",
+            "finishDate": "2025-12-01",
             "challenges": [
               {
                 "description": "En mi día a día resuelvo las tareas adquiridas durante el planning del sprint que realizamos cada 15 días, además tenemos un tablero KANBAN del cual si tienes tiempo vamos resolviendo las incidencias más importantes. Mi mascota se basa tanto en resolver Bugs como en refactorizar y desarrollar nuevas funciones"
