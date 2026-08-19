@@ -32,6 +32,45 @@
     "jobs": [
       {
         "organization": {
+          "name": "Grupie Labs",
+          "URL": "https://grupie.com/"
+        },
+        "roles": [
+          {
+            "name": "Grupie Labs",
+            "startDate": "2025-12-01",
+            "challenges": [
+              {
+                "description": "Desarrollo del producto core en Symfony y Next.js/React, incluyendo decisiones de arquitectura y desarrollo de flujos de trabajo guiados por IA.\n\nActualmente el equipo presta también servicios de desarrollo a clientes externos, con un stack de Fastify y PostgreSQL."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Fastify",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "The Knot",
           "URL": "https://www.theknot.com"
         },
