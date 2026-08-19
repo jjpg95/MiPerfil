@@ -39,7 +39,7 @@
           {
             "name": "Full Stack Developer",
             "startDate": "2022-11-01",
-            "finishDate": "2025-12-01",
+            "finishDate": "2025-11-01",
             "challenges": [
               {
                 "description": "Incorporación tras la adquisición de la empresa para estabilizar el ecosistema técnico y reducir deuda heredada.\nMigración completa a GA4 en 2 meses. Automatización del flujo contable con Sage 50. Transición del frontend a React. Implantación de cultura de testing con Jest y PHPUnit en un entorno sin ninguna cobertura previa.\nDesde 2025, liderazgo técnico y arquitectura: HapiJS, GraphQL, OpenSearch, PayloadCMS, RabbitMQ y design system en Next.js."
