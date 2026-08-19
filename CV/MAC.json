@@ -384,6 +384,10 @@
           "type": "technology"
         },
         {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
           "name": "TypeScript",
           "type": "technology"
         }
