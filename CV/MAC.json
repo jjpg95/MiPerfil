@@ -89,7 +89,7 @@
             "finishDate": "2022-10-01",
             "challenges": [
               {
-                "description": "Desarrollo de nuevas funcionalidades y análisis y refactor de los proyectos"
+                "description": "Mantenimiento y evolución de sistemas legados en PHP 5.4/5.5 con Symfony y AngularJS. Propuse e implanté el primer pipeline de CI/CD en GitLab de la empresa, y desarrollé una API con autenticación por tokens temporales."
               }
             ],
             "competences": [
