@@ -42,7 +42,7 @@
             "finishDate": "2025-12-01",
             "challenges": [
               {
-                "description": "En mi día a día resuelvo las tareas adquiridas durante el planning del sprint que realizamos cada 15 días, además tenemos un tablero KANBAN del cual si tienes tiempo vamos resolviendo las incidencias más importantes. Mi mascota se basa tanto en resolver Bugs como en refactorizar y desarrollar nuevas funciones"
+                "description": "Incorporación tras la adquisición de la empresa para estabilizar el ecosistema técnico y reducir deuda heredada.\nMigración completa a GA4 en 2 meses. Automatización del flujo contable con Sage 50. Transición del frontend a React. Implantación de cultura de testing con Jest y PHPUnit en un entorno sin ninguna cobertura previa.\nDesde 2025, liderazgo técnico y arquitectura: HapiJS, GraphQL, OpenSearch, PayloadCMS, RabbitMQ y design system en Next.js."
               }
             ],
             "competences": [
