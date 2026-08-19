@@ -392,6 +392,10 @@
           "type": "technology"
         },
         {
+          "name": "PostgreSQL",
+          "type": "technology"
+        },
+        {
           "name": "TypeScript",
           "type": "technology"
         }
