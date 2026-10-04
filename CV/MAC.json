@@ -169,6 +169,22 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Accounting Suite",
+          "description": "App de contabilidad para pequeños negocios. NestJS, PostgreSQL, Next.js (proyecto propio). Demo pública en vivo, solo lectura y con datos sintéticos.",
+          "URL": "https://demo.accounting.jjpg.dev"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2026-05-01"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
@@ -434,6 +450,11 @@
       }
     ],
     "desiredJobDescription": "Un equipo donde las decisiones técnicas se discutan y se documenten, y donde haya margen para arreglar las cosas y no solo para añadir encima. Vengo de proyectos de modernización, así que el código heredado no me asusta: me interesa entender por qué está como está antes de tocarlo.\n\nMe veo como contribuidor individual con peso en arquitectura: decidir stack, definir contratos entre servicios, marcar el criterio técnico. No busco gestionar personas a corto plazo, pero sí me interesa acompañar a compañeros con revisión de código y pair programming.\n\nValoro la coordinación clara —saber qué se está haciendo y por qué— por encima de la metodología concreta. Y trabajo en remoto de forma permanente desde Ciudad Real.",
-    "goodPractices": "- Testing: en los proyectos de frontend de Grupie, que no tenían tests, implanté la práctica y llevé la cobertura de 0 % a más del 75 %; además, monté desde cero la suite e2e con Playwright. En mi stack: Jest, PHPUnit y Playwright.\n- Revisión de código sistemática y pair programming.\n- CI/CD: propuse e implementé el primer pipeline de CI/CD en GitLab de Tigloo, sustituyendo un despliegue manual que exigía repetir el cambio a mano en 4 máquinas.\n- Desarrollo asistido por IA con verificación en varias capas: revisión automatizada por un agente independiente, revisión manual y code review del equipo antes de integrar.\n- Funcionalidades detrás de feature flags, validadas con experimentos A/B.\n- Metodologías: Scrum y Kanban."
+    "goodPractices": "- Testing: en los proyectos de frontend de Grupie, que no tenían tests, implanté la práctica y llevé la cobertura de 0 % a más del 75 %; además, monté desde cero la suite e2e con Playwright. En mi stack: Jest, PHPUnit y Playwright.\n- Revisión de código sistemática y pair programming.\n- CI/CD: propuse e implementé el primer pipeline de CI/CD en GitLab de Tigloo, sustituyendo un despliegue manual que exigía repetir el cambio a mano en 4 máquinas.\n- Desarrollo asistido por IA con verificación en varias capas: revisión automatizada por un agente independiente, revisión manual y code review del equipo antes de integrar.\n- Funcionalidades detrás de feature flags, validadas con experimentos A/B.\n- Metodologías: Scrum y Kanban.",
+    "projects": [
+      {
+        "name": "Accounting Suite"
+      }
+    ]
   }
 }
