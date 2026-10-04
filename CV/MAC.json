@@ -173,6 +173,20 @@
     "projects": [
       {
         "details": {
+          "name": "Vereda",
+          "description": "SaaS multi-tenant para organizadores de pruebas deportivas. Next.js, PostgreSQL.",
+          "URL": "https://vereda.jjpg.dev"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2026-05-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Curio",
           "description": "Plataforma educativa gamificada para niños de 3 a 14 años: programación, matemáticas y ciencias con lecciones interactivas, editor de código y progresión por niveles. Next.js, PostgreSQL, Prisma, Zustand. Demo pública en vivo.",
           "URL": "https://curio.jjpg.dev/demo"
@@ -471,6 +485,9 @@
       },
       {
         "name": "Curio"
+      },
+      {
+        "name": "Vereda"
       }
     ]
   }
