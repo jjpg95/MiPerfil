@@ -124,23 +124,15 @@
         },
         "roles": [
           {
-            "name": "Desarrollador Fullstack Symfony/AngularJs",
+            "name": "Full Stack Developer",
             "startDate": "2021-12-01",
             "finishDate": "2022-10-01",
             "challenges": [
               {
-                "description": "Mantenimiento y evolución de sistemas legados en PHP 5.4/5.5 con Symfony y AngularJS. Propuse e implanté el primer pipeline de CI/CD en GitLab de la empresa, y desarrollé una API con autenticación por tokens temporales."
+                "description": "Presencial en Madrid.\n– Mantenimiento y evolución de aplicaciones de una empresa de derechos musicales en PHP 5.4/5.5 y 7.4 con Symfony y AngularJS.\n– Propuse e implementé el primer pipeline de CI/CD en GitLab de la empresa, sustituyendo un despliegue manual que exigía repetir el cambio a mano en 4 máquinas desde 4 terminales simultáneas.\n– Diseñé, desarrollé y puse en producción, en solitario, un endpoint de recepción de datos de consumo musical de terceros, con autenticación por token de corta expiración."
               }
             ],
             "competences": [
-              {
-                "name": "AJAX",
-                "type": "technology"
-              },
-              {
-                "name": "API",
-                "type": "technology"
-              },
               {
                 "name": "AngularJS",
                 "type": "technology"
@@ -158,7 +150,7 @@
                 "type": "technology"
               },
               {
-                "name": "Linux",
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
@@ -170,7 +162,7 @@
                 "type": "technology"
               },
               {
-                "name": "SQL",
+                "name": "Symfony",
                 "type": "technology"
               }
             ]
