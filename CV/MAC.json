@@ -173,9 +173,9 @@
     "projects": [
       {
         "details": {
-          "name": "Vereda",
-          "description": "SaaS multi-tenant para organizadores de pruebas deportivas. Next.js, PostgreSQL.",
-          "URL": "https://vereda.jjpg.dev"
+          "name": "Nexfit",
+          "description": "SaaS para entrenadores personales y nutricionistas, en producción con usuarios reales (proyecto propio). Panel web del entrenador en Next.js, API en NestJS con Prisma y PostgreSQL, y app del cliente en Expo/React Native con sesiones offline-first, publicada en App Store.",
+          "URL": "https://apps.apple.com/es/app/nexfit/id6813032725"
         },
         "type": "sideProject",
         "roles": [
@@ -204,6 +204,20 @@
           "name": "Accounting Suite",
           "description": "App de contabilidad para pequeños negocios. NestJS, PostgreSQL, Next.js (proyecto propio). Demo pública en vivo, solo lectura y con datos sintéticos.",
           "URL": "https://demo.accounting.jjpg.dev"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2026-05-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Vereda",
+          "description": "SaaS multi-tenant para organizadores de pruebas deportivas. Next.js, PostgreSQL.",
+          "URL": "https://vereda.jjpg.dev"
         },
         "type": "sideProject",
         "roles": [
@@ -485,6 +499,9 @@
       },
       {
         "name": "Curio"
+      },
+      {
+        "name": "Nexfit"
       },
       {
         "name": "Vereda"
