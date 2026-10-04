@@ -341,6 +341,12 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Capacidad de autogestión",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Pensamiento analítico",
           "type": "practice"
         }
