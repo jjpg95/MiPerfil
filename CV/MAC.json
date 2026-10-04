@@ -245,6 +245,24 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Claude Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Docker",
           "type": "technology"
         }
@@ -257,7 +275,19 @@
       },
       {
         "skill": {
+          "name": "Fastify",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
           "type": "technology"
         }
       },
@@ -269,7 +299,25 @@
       },
       {
         "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HapiJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
           "type": "technology"
         }
       },
@@ -299,13 +347,37 @@
       },
       {
         "skill": {
+          "name": "PHPunit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Playwright",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "PostgreSQL",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "Prisma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
           "type": "technology"
         }
       },
@@ -342,6 +414,12 @@
       {
         "skill": {
           "name": "Symfony",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
           "type": "technology"
         }
       },
@@ -471,7 +549,11 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "NextJS",
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "PHP",
         "type": "technology"
       },
       {
@@ -479,15 +561,11 @@
         "type": "technology"
       },
       {
+        "name": "React",
+        "type": "technology"
+      },
+      {
         "name": "Symfony",
-        "type": "technology"
-      },
-      {
-        "name": "TypeScript",
-        "type": "technology"
-      },
-      {
-        "name": "nestJS",
         "type": "technology"
       }
     ],
