@@ -395,24 +395,6 @@
       },
       {
         "skill": {
-          "name": "Redis",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Symfony",
           "type": "technology"
         }
