@@ -37,11 +37,12 @@
         },
         "roles": [
           {
-            "name": "Grupie Labs",
+            "name": "Full Stack Developer",
             "startDate": "2025-12-01",
+            "finishDate": "2026-10-01",
             "challenges": [
               {
-                "description": "Desarrollo del producto core en Symfony y Next.js/React, incluyendo decisiones de arquitectura y desarrollo de flujos de trabajo guiados por IA.\n\nActualmente el equipo presta también servicios de desarrollo a clientes externos, con un stack de Fastify y PostgreSQL."
+                "description": "En remoto.\n– Desarrollo del producto core en PHP/Symfony y Next.js/React.\n– Diseñé e implementé el motor de facturación recurrente de partners: ciclo diario de contratos, prorrateo de cancelaciones y recuperación ante fallos.\n– Desarrollé servicios backend con Fastify y PostgreSQL para clientes externos.\n– Ayudé en la integración de la pasarela de pagos Lemonway (wallets, domiciliaciones, webhooks y KYC) e integré GoCardless para automatizar los cobros SEPA.\n– Desarrollé de extremo a extremo el RSVP de eventos y, del resto de la funcionalidad de eventos, el frontend: editor y página pública, lista de invitados, modelo de encuesta e internacionalización en/es/fr.\n– Creé dos librerías internas: media-url (imágenes con imgproxy) y ledgers (contabilidad y facturación con integración de Holded).\n– En los proyectos de frontend, que no tenían tests, implanté la práctica de testing y llevé la cobertura de 0 % a más del 75 %; además, monté desde cero la suite e2e con Playwright.\n– Implementación de flujos de desarrollo asistidos por IA con verificación en varias capas: revisión automatizada por un agente independiente, revisión manual y code review del equipo antes de integrar."
               }
             ],
             "competences": [
@@ -51,6 +52,10 @@
               },
               {
                 "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
                 "type": "technology"
               },
               {
