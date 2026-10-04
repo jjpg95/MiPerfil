@@ -76,30 +76,22 @@
       },
       {
         "organization": {
-          "name": "The Knot",
+          "name": "The Knot Worldwide (ex Zankyou Weddings)",
           "URL": "https://www.theknot.com"
         },
         "roles": [
           {
-            "name": "Full Stack Developer",
+            "name": "Software Engineer (full stack)",
             "startDate": "2022-11-01",
             "finishDate": "2025-11-01",
             "challenges": [
               {
-                "description": "Incorporación tras la adquisición de la empresa para estabilizar el ecosistema técnico y reducir deuda heredada.\nMigración completa a GA4 en 2 meses. Automatización del flujo contable con Sage 50. Transición del frontend a React. Implantación de cultura de testing con Jest y PHPUnit en un entorno sin ninguna cobertura previa.\nDesde 2025, liderazgo técnico y arquitectura: HapiJS, GraphQL, OpenSearch, PayloadCMS, RabbitMQ y design system en Next.js."
+                "description": "Presencial en Madrid (2022–2023) y en remoto (2024–2025).\nProducto con más de 1M de visitas/mes en más de 10 países, en una organización de más de 40 personas en tecnología y un equipo de 6 a 10.\n– Diseñé e implementé parte de la integración backend de un proyecto transversal (HapiJS, GraphQL y OpenSearch sobre un índice de millones de documentos). En una arquitectura de más de 8 servicios comunicados por colas de RabbitMQ, añadí listeners con sus endpoints y esquemas, y creé resolvers GraphQL en PayloadCMS.\n– En un proyecto de varios equipos con un plazo muy ajustado, me encargué de la parte web: añadí a una aplicación React de otro equipo una ruta nueva con su página, componentes reutilizables y custom hooks, siguiendo las convenciones del proyecto.\n– Desarrollé funcionalidades detrás de feature flags y las validé con experimentos A/B en el gestor interno de la empresa.\n– Planifiqué y ejecuté la migración de Universal Analytics a GA4 cumpliendo el plazo límite impuesto por Google, en 2 meses y sin pérdida de continuidad en el reporting de negocio.\n– Automaticé la exportación contable B2B/B2C hacia Sage 50, eliminando más de 10 horas mensuales de trabajo manual y los errores de carga."
               }
             ],
             "competences": [
               {
-                "name": "Bitbucket",
-                "type": "technology"
-              },
-              {
-                "name": "Datadog",
-                "type": "technology"
-              },
-              {
-                "name": "Jira",
+                "name": "GraphQL",
                 "type": "technology"
               },
               {
@@ -107,15 +99,19 @@
                 "type": "technology"
               },
               {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
                 "name": "PHP",
                 "type": "technology"
               },
               {
-                "name": "PHPStorm",
+                "name": "RabbitMQ",
                 "type": "technology"
               },
               {
-                "name": "S3",
+                "name": "React",
                 "type": "technology"
               }
             ]
