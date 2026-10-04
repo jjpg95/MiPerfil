@@ -173,6 +173,20 @@
     "projects": [
       {
         "details": {
+          "name": "Curio",
+          "description": "Plataforma educativa gamificada para niños de 3 a 14 años: programación, matemáticas y ciencias con lecciones interactivas, editor de código y progresión por niveles. Next.js, PostgreSQL, Prisma, Zustand. Demo pública en vivo.",
+          "URL": "https://curio.jjpg.dev/demo"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2026-05-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Accounting Suite",
           "description": "App de contabilidad para pequeños negocios. NestJS, PostgreSQL, Next.js (proyecto propio). Demo pública en vivo, solo lectura y con datos sintéticos.",
           "URL": "https://demo.accounting.jjpg.dev"
@@ -454,6 +468,9 @@
     "projects": [
       {
         "name": "Accounting Suite"
+      },
+      {
+        "name": "Curio"
       }
     ]
   }
