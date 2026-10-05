@@ -173,20 +173,6 @@
     "projects": [
       {
         "details": {
-          "name": "Nexfit",
-          "description": "SaaS para entrenadores personales y nutricionistas, en producción con usuarios reales (proyecto propio). Panel web del entrenador en Next.js, API en NestJS con Prisma y PostgreSQL, y app del cliente en Expo/React Native con sesiones offline-first, publicada en App Store.",
-          "URL": "https://apps.apple.com/es/app/nexfit/id6813032725"
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2026-05-01"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Curio",
           "description": "Plataforma educativa gamificada para niños de 3 a 14 años: programación, matemáticas y ciencias con lecciones interactivas, editor de código y progresión por niveles. Next.js, PostgreSQL, Prisma, Zustand. Demo pública en vivo.",
           "URL": "https://curio.jjpg.dev/demo"
@@ -224,6 +210,20 @@
           {
             "name": "Developer",
             "startDate": "2026-05-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Nexfit",
+          "description": "Nexfit es una plataforma para entrenadores personales y sus clientes. El entrenador monta los planes por bloques, semanas y días en un panel web; sus clientes los siguen desde una app móvil donde apuntan cada serie, también sin cobertura: el plan y las series se guardan en el móvil y se sincronizan al volver la conexión. El entrenador ve lo que han hecho y dispone de progreso, check-in semanal, encuestas propias, aviso de clientes en riesgo, recordatorios y calendario.\n\nEn uso real desde septiembre de 2026 con un entrenador en activo y sus clientes. App para iPhone publicada en el App Store. Proyecto propio, de principio a fin: panel en Next.js, API en NestJS con Prisma y PostgreSQL, y app en Expo/React Native.",
+          "URL": "https://nexfit.jjpg.dev/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2026-04-01"
           }
         ]
       }
