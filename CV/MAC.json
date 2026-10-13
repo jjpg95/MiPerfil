@@ -189,7 +189,7 @@
         "details": {
           "name": "Accounting Suite",
           "description": "App de contabilidad para pequeños negocios. NestJS, PostgreSQL, Next.js (proyecto propio). Demo pública en vivo, solo lectura y con datos sintéticos.",
-          "URL": "https://demo.accounting.jjpg.dev"
+          "URL": "https://demo-accounting.jjpg.dev"
         },
         "type": "sideProject",
         "roles": [
