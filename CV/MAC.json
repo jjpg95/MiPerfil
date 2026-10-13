@@ -216,7 +216,7 @@
       {
         "details": {
           "name": "Nexfit",
-          "description": "Nexfit es una plataforma para entrenadores personales y sus clientes. El entrenador monta los planes por bloques, semanas y días en un panel web; sus clientes los siguen desde una app móvil donde apuntan cada serie, también sin cobertura: el plan y las series se guardan en el móvil y se sincronizan al volver la conexión. El entrenador ve lo que han hecho y dispone de progreso, check-in semanal, encuestas propias, aviso de clientes en riesgo, recordatorios y calendario.\n\nEn uso real desde septiembre de 2026 con un entrenador en activo y sus clientes. App para iPhone publicada en el App Store. Proyecto propio, de principio a fin: panel en Next.js, API en NestJS con Prisma y PostgreSQL, y app en Expo/React Native.",
+          "description": "Nexfit es una plataforma para entrenadores personales y sus clientes. El entrenador monta los planes por bloques, semanas y días en un panel web; sus clientes los siguen desde una app móvil donde apuntan cada serie, también sin cobertura: el plan y las series se guardan en el móvil y se sincronizan al volver la conexión. El entrenador ve lo que han hecho y dispone de progreso, check-in semanal, encuestas propias, aviso de clientes en riesgo, recordatorios y calendario.\n\nEn uso real desde septiembre de 2026 con un entrenador en activo y sus clientes. App disponible en el App Store (iPhone) y en Google Play (Android). Proyecto propio, de principio a fin: panel en Next.js, API en NestJS con Prisma y PostgreSQL, y app en Expo/React Native.",
           "URL": "https://nexfit.jjpg.dev/"
         },
         "type": "sideProject",
