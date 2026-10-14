@@ -420,10 +420,10 @@
     ],
     "studies": [
       {
-        "studyType": "officialDegree",
+        "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Técnico superior en desarrollo de aplicaciones Web",
-        "startDate": "2021-11-01",
+        "name": "Desarrollo de Aplicaciones Web (curso de 1.500 h, temario del ciclo DAW)",
+        "startDate": "2019-11-01",
         "institution": {
           "name": "CEAC"
         },
